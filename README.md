@@ -36,6 +36,26 @@ Here are some related projects
 
 - Removing big comments
 - Tinifying images
+
+
+# Usage in Programs
+## JavaScript
+This will log the result of fetch.
+```js
+const response = await fetch("https://raw.githubusercontent.com/shortbox/cdn/hello.txt");
+console.log(response)
+```
+## Python
+This doesn't log, but creates a variable.
+```python
+import requests
+response = request.get("https://raw.githubusercontent.com/shortbox/cdn/hello.txt")
+```
+## Bash/ZSH
+We use CURL.
+```bash
+$ curl https://raw.githubusercontent.com/shortbox/cdn/hello.txt
+```
 ## Feedback
 
 If you have any feedback, please reach out to us at lev.grachov+sbfeedback@icloud.com
