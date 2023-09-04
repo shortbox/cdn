@@ -1,5 +1,5 @@
 
-![Logo](https://i.postimg.cc/prZr9Gfx/shortbox.png)
+![Logo](https://raw.githubusercontent.com/shortbox/cdn/39eaf684d30476bfd9a17ba28cd588f3ca0b471a/shortbox.png)
 
 
 # Shortbox
