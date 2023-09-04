@@ -1,0 +1,8 @@
+Hello there! You've discovered the smallest CDN for your scripts. This is exactly good.
+Well this is a little bit bad. You are viewing this at GitHub, so to view this Raw, do this:
+Go to this page:
+https://raw.githubusercontent.com/shortbox/cdn/main/hello.txt
+And it will be raw!
+*********************************************
+This is so much useful!
+CURL WORKS TOO!!!!!
