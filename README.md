@@ -4,7 +4,7 @@
 
 # Shortbox
 
-Your CDN for short scripts.
+Your CDN for short projects.
 
 ## Used By
 
