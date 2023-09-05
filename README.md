@@ -16,7 +16,7 @@ Open any document from the CDN as raw.
 
 ### Link - How It Works
 
-https://raw.githubusercontent.com/shortbox/cdn/ `foldername`/`filename`
+https://raw.githubusercontent.com/shortbox/cdn/main/ `foldername`/`filename`
 ## Related
 
 Here are some related projects
