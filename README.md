@@ -42,19 +42,19 @@ Here are some related projects
 ## JavaScript
 This will log the result of fetch.
 ```js
-const response = await fetch("https://raw.githubusercontent.com/shortbox/cdn/hello.txt");
+const response = await fetch("https://raw.githubusercontent.com/shortbox/cdn/main/hello.txt");
 console.log(response)
 ```
 ## Python
 This doesn't log, but creates a variable.
 ```python
 import requests
-response = request.get("https://raw.githubusercontent.com/shortbox/cdn/hello.txt")
+response = request.get("https://raw.githubusercontent.com/shortbox/cdn/main/hello.txt")
 ```
 ## Bash/ZSH
 We use CURL.
 ```bash
-$ curl https://raw.githubusercontent.com/shortbox/cdn/hello.txt
+$ curl https://raw.githubusercontent.com/shortbox/cdn/main/hello.txt
 ```
 ## Feedback
 
