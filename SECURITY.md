@@ -7,9 +7,9 @@ Here is a table of supported protocols for fetch:
 | Version | Supported          |
 | ------- | ------------------ |
 | raw   | :white_check_mark: |
-| blob   | :x:                |
+| blob   | :white_check_mark:                |
 | pages   | :x: |
-| nginx   | :x:                |
+| nginx   | :white_check_mark:                |
 
 ## Reporting a Vulnerability
 
